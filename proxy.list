@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,www.pornhub.com
 DOMAIN-SUFFIX,rt.pornhub.com
 DOMAIN-SUFFIX,cdn1-smallimg.phncdn.com
 DOMAIN-SUFFIX,ei.phncdn.com
@@ -81,3 +82,7 @@ DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,rt.pornhub
+DOMAIN-KEYWORD,pornhub.com
+DOMAIN-KEYWORD,rt.pornhub.com
+DOMAIN-KEYWORD,pornhub
+DOMAIN-KEYWORD,www.pornhub.com
