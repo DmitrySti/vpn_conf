@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnfbsbx.com
 DOMAIN-SUFFIX,igcdn.com
@@ -37,6 +38,12 @@ DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,rt.pornhub.com
+DOMAIN-SUFFIX,cdn1-smallimg.phncdn.com
+DOMAIN-SUFFIX,ei.phncdn.com
+DOMAIN-SUFFIX,media.trafficjunky.com
+DOMAIN-SUFFIX,prvc.io
+DOMAIN-SUFFIX,ss.phncdn.com
+DOMAIN-SUFFIX,static.trafficjunky.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,setapp.com
