@@ -34,7 +34,9 @@ DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,slideshare.net
@@ -47,6 +49,7 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
@@ -64,3 +67,6 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,rutracker
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,pornhub
